@@ -1,0 +1,35 @@
+8
+1
+Ibrahim Mohamed
+Bachelor's degree
+1
+8
+2
+Mohamed Ali
+Master's degree
+1
+8
+3
+Abakar Mohamed
+Master's degree 
+2
+8
+4
+Moussa Hamid
+PHD degree
+2
+8
+5
+Abakar Mohamed
+PHD degree
+2
+6
+Ousman Adam Ahmed
+Master's degree
+3
+
+--- degrees ----
+Associate degree
+Bachelor's degree
+Master's degree
+PHD degree

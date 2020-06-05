@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1589931634 source:c:\users\i2m\desktop\project\department.cpp
+	"Department.h"
+	"Staff.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<strstream>
+	<cstring>
+	<sstream>
+	<vector>
+	<string>
+	<stdio.h>
+	<ctime>
+	<vector>
+
+1591246909 c:\users\i2m\desktop\project\department.h
+	<vector>
+
+1589843076 source:c:\users\i2m\desktop\project\main.cpp
+	<iostream>
+	<fstream>
+	"Student.h"
+	"Staff.h"
+	"Department.h"
+	<vector>
+	<strstream>
+	<sstream>
+
+1590164092 source:c:\users\i2m\desktop\project\staff.cpp
+	"Staff.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<strstream>
+	<cstring>
+	<sstream>
+	<vector>
+	<string>
+	<stdio.h>
+	<ctime>
+	<vector>
+	"Department.h"
+
+1589838475 c:\users\i2m\desktop\project\staff.h
+	<vector>
+	"Department.h"
+
+1589931599 source:c:\users\i2m\desktop\project\student.cpp
+	"Student.h"
+	"Staff.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<strstream>
+	<cstring>
+	<sstream>
+	<vector>
+	<string>
+	<stdio.h>
+	<ctime>
+
+1590204598 c:\users\i2m\desktop\project\student.h
+

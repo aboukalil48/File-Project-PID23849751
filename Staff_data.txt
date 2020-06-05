@@ -1,0 +1,7 @@
+$1|Ibrahim Mohamed|Bachelor's degree|1|
+$2|Mohamed Ali|Master's degree|1|
+$3|Abakar Mohamed|Master's degree|2|
+$4|Moussa Hamid|PHD degree|2|
+*5|Abakar Mohamed|PHD degree|2|
+$5|Abakar Mohamed|PHD degree|2|
+$6|Ousman Adam Ahmed|Master's degree|3|

@@ -1,0 +1,4 @@
+$1|Computer Science|Ibrahim Mohamed|
+*2|information technology|Moussa Hamid|
+$2|information technology|Moussa Hamid|
+$3|information System|Ousman Adam Ahmed|
